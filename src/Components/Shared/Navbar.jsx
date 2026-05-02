@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="w-11/12 !mx-auto flex items-center justify-between">
         <a
           href="#"
-          className="roboto text-3xl text-(--deep)/50 tracking-tighter flex gap-2 items-center"
+          className="roboto text-3xl text-gray-700 tracking-tighter flex gap-2 items-center"
         >
           <FaBookReader className="text-(--rust)" />
           <h2>
