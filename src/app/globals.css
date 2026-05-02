@@ -8,26 +8,26 @@
 @plugin "daisyui";
 
 :root {
-  --obsidian: #0b1220;
-  --deep: #111827;
-  --surface: #1f2937;
-  --card: #273449;
-  --lifted: #334155;
+  --obsidian: #0f0f14;
+  --deep: #171722;
+  --surface: #222235;
+  --card: #2c2c44;
+  --lifted: #3a3a5a;
 
-  --gold: #60a5fa;
-  --gold2: #93c5fd;
-  --gold3: #bfdbfe;
-  --gold-dim: rgba(96, 165, 250, 0.15);
-  --gold-line: rgba(96, 165, 250, 0.25);
+  --gold: #a78bfa;
+  --gold2: #c4b5fd;
+  --gold3: #ddd6fe;
+  --gold-dim: rgba(167, 139, 250, 0.15);
+  --gold-line: rgba(167, 139, 250, 0.28);
 
-  --ivory: #f9fafb;
-  --ivory2: #e5e7eb;
+  --ivory: #f8fafc;
+  --ivory2: #e2e8f0;
 
-  --muted: #9ca3af;
-  --muted2: #6b7280;
+  --muted: #94a3b8;
+  --muted2: #64748b;
 
-  --cream-text: #cbd5f5;
-  --rust: #f97316;
+  --cream-text: #e0e7ff;
+  --rust: #22c55e;
 }
 
 * {
